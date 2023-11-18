@@ -1,0 +1,321 @@
+Bread
+Wheat
+Rice (low quality)
+Wage (qualified labour)
+Livestock (sheep, one-year-old alive female)
+Fuel (diesel)
+Exchange rate
+Wage (non-qualified labour, non-agricultural)
+Rice
+Beans (white)
+Milk
+Potatoes
+Eggs
+Meat (chicken)
+Sugar
+Lentils
+Pasta
+Tomatoes
+Oil
+Cheese (dry)
+Carrots
+Onions
+Bananas
+Tea
+Fuel (petrol-gasoline)
+Fish (canned)
+Apples
+Milk (camel)
+Meat (camel)
+Tea (sahm)
+Wheat flour
+Oil (vegetable)
+Rice (white)
+Meat (pork)
+Meat (beef)
+Cabbage
+Apples (red)
+Cucumbers (greenhouse)
+Fuel (kerosene)
+Fish (fresh)
+Bread (high grade flour)
+Bread (first grade flour)
+Milk (non-pasteurized)
+Rice (coarse)
+Lentils (masur)
+Oil (palm)
+Rice (imported)
+Sorghum
+Maize (white)
+Cassava meal (gari)
+Maize
+Millet
+Rice (local)
+Rice (imported, Indian)
+Meat (beef, chops with bones)
+Meat (chicken, whole)
+Noodles (short)
+Potatoes (Dutch)
+Potatoes (Irish, imilla)
+Rice (estaquilla)
+Rice (long grain)
+Bread (wheat)
+Rice (good quality)
+Rice (carolina 2da)
+Rice (medium grain)
+Potatoes (black)
+Beans (niebe)
+Beans
+Cassava flour
+Sweet potatoes
+Rice (imported, Tanzanian)
+Rice (high quality, local)
+Rice (low quality, local)
+Rice (mixed, low quality)
+Wage (non-qualified labour)
+Meat (pork, with fat)
+Groundnuts (shelled)
+Sorghum (white)
+Sesame
+Peas (yellow)
+Soybeans
+Sorghum (red)
+Cassava (cossette)
+Oil (groundnut)
+Livestock (sheep, medium-sized castrated male)
+Livestock (goat, medium-sized castrated male)
+Sorghum (berbere)
+Maize flour
+Beans (red)
+Garlic
+Onions (red)
+Onions (white)
+Maize (yellow)
+Plantains
+Cocoa
+Coffee
+Fish (dry)
+Salt
+Rice (paddy)
+Chickpeas (imported)
+Eggs (white, AA)
+Meat (beef, minced)
+Peas (green, dry)
+Potatoes (unica)
+Sugar (brown)
+Sugar (brown, loaf)
+Cauliflower
+Oranges (big size)
+Beans (red, fresh)
+Cassava (dry)
+Spinach
+Fish (tilapia)
+Beans (string)
+Guava
+Papaya
+Blackberry
+Broccoli
+Mangoes
+Pumpkin
+Tamarillos/tree tomatoes
+Cheese
+Lentils (imported)
+Milk (pasteurized)
+Coffee (instant)
+Oil (sunflower)
+Meat (chicken, frozen)
+Cassava (fresh)
+Fish (smoked)
+Fish (salted)
+Groundnuts (paste)
+Beans (black)
+Rice (milled 80-20)
+Rice (denikassia, imported)
+Yam (florido)
+Cornstarch
+Fish (appolo)
+Peanut
+Groundnuts
+Cashew
+Cotton
+Maize meal
+Cassava
+Meat (goat, with bones)
+Cassava (chikwangue)
+Transport (public)
+Beans (silk red)
+Livestock (Goat)
+Livestock (Sheep)
+Beans (fava, dry)
+Maize (local)
+Groundnuts (unshelled)
+Rice (long grain, imported)
+Rice (medium grain, imported)
+Rice (small grain, imported)
+Fonio
+Rice (paddy, long grain, local)
+Rice (basmati, broken)
+Potatoes (Irish)
+Fish (bonga)
+Meat (mutton)
+Milk (powder)
+Beans (dry)
+Plantains (apentu)
+Yam
+Rice (ordinary, second quality)
+Tortilla (maize)
+Rice (ordinary, first quality)
+Oil (vegetable, imported)
+Fish
+Tomatoes (paste)
+Beans (niebe, white)
+Rice (tchako)
+Wheat flour (imported)
+Sugar (white)
+Maize meal (local)
+Maize flour (white)
+Tea (black)
+Oil (mustard)
+Oil (soybean)
+Lentils (moong)
+Sugar (jaggery/gur)
+Lentils (urad)
+Ghee (vanaspati)
+Salt (iodised)
+Meat (chicken, broiler)
+Chili (green)
+Chili (red)
+Milk (condensed)
+Bread (khoboz)
+Pulses
+Oil (olive)
+Chickpeas
+Bulgur
+Cheese (picon)
+Fish (tuna, canned)
+Bread (pita)
+Meat (lamb)
+Cheese (white, boiled)
+Cucumbers
+Milk (cow, pasteurized)
+Oil (cotton)
+Tea (green)
+Wheat flour (first grade)
+Wheat flour (high quality)
+Beans (kidney white)
+Meat (beef, first quality)
+Meat (beef, second quality)
+Meat (buffalo, first quality)
+Meat (buffalo, second quality)
+Meat (pork, first quality)
+Meat (pork, second quality)
+Rice (glutinous, first quality)
+Rice (glutinous, second quality)
+Rice (glutinous, unmilled)
+Rice (ordinary, unmilled)
+Garlic (small)
+Fish (snake head)
+Fish (catfish)
+Fish (tilapia, farmed)
+Rice (imported, Egyptian)
+Lettuce
+Meat (beef, canned)
+Fish (sardine, canned)
+Bread (brown)
+Peas (split, dry)
+Beans (sugar-red)
+Cowpeas
+Rice (white, imported)
+Sorghum (taghalit)
+Wheat flour (local)
+Maize meal (white, first grade)
+Oil (vegetable, local)
+Sugar (brown, imported)
+Sugar (brown, local)
+Groundnuts (Mix)
+Beans (butter)
+Beans (magnum)
+Groundnuts (large, shelled)
+Groundnuts (small, shelled)
+Beans (catarino)
+Maize meal (white, without bran) 
+Maize meal (white, with bran)
+Rice (high quality)
+Chickpeas (local)
+Oil (mixed, imported)
+Cowpeas (white)
+Cowpeas (brown)
+Sorghum (brown)
+Gari (yellow)
+Gari (white)
+Yam (Abuja)
+Oil (cooking)
+Ghee (artificial)
+Poultry
+Beans(mash)
+Wheat flour (locally processed)
+Rice (regular, milled)
+Beans (mung)
+Maize flour (imported)
+Sorghum flour
+Peppers (green)
+Eggplants
+Charcoal
+Passion fruit
+Zucchini
+Livestock (hen)
+Avocados
+Cassava leaves
+Peas (fresh)
+Peas (dry)
+Livestock (cattle)
+Livestock (pig)
+Meat (goat)
+Beans (green, fresh)
+Maize (imported)
+Rice (red nadu)
+Beans (sugar) 
+Bread (bakery)
+Bread (shop)
+Dates
+Fuel (gas)
+Livestock (sheep, two-year-old male)
+Yogurt
+Parsley
+Beans (haricot)
+Beans (kidney)
+Eggs (imported)
+Meat (chicken, imported)
+Bread (common)
+Meat (veal)
+Milk (powder, infant formula)
+Cocoa (powder, not sweetened)
+Curd
+Sour cream
+Meat (mixed, sausage)
+Beetroots
+Butter
+Buckwheat grits
+Bread (rye)
+Fat (salo)
+Beans (kidney red)
+Peas (yellow, split)
+Cassava meal
+Maize meal (white, roller)
+Maize meal (white, breakfast)
+Bananas (medium size)
+Fish (red snapper)
+Onions (dry, local)
+Potatoes (medium size)
+Tomatoes (greenhouse)
+Oil (maize)
+Labaneh
+Cheese (goat)
+Fish (frozen)
+Water (drinking)
+Sorghum (food aid)
+Ghee (natural)
+Oil (mixed)
+Meat (beef, without bones)
+Exchange rate (unofficial)
+Millet (white)
